@@ -8,5 +8,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenxuanan5161&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
-<br/>
-<img src="https://raw.githubusercontent.com/NguyenXuanAn5161/NguyenXuanAn5161/output/snake.svg" alt="Snake animation" />
