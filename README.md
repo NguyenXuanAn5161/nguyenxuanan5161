@@ -9,5 +9,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenxuanan5161&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center"src="https://github-readme-stats.vercel.app/api/wakatime?username=@nguyenxuanan5161&layout=compact&theme=radical&order=3" width="400" alt="Harlok's wakatime stats"" />
+  <img height=200 align="center"src="https://github-readme-stats.vercel.app/api/wakatime?username=@nguyenxuanan5161&time_range=all_time&show_masked_time=true&layout=compact&theme=radical&order=3" width="400" alt="Harlok's wakatime stats"" />
 </a>
